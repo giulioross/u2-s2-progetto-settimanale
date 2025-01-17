@@ -1,0 +1,19 @@
+body {
+  background-color: #141414;
+  color: white;
+}
+
+.centered-container {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#centro {
+  width: 33%;
+}
+.img-fluid {
+  max-height: fit-content;
+  max-width: 100%;
+}
